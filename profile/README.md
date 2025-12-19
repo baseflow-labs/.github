@@ -4,7 +4,7 @@ We build open-source tools that help developers and founders ship real products 
 
 ## 🚀 Products
 
-- **Initia** – schema-driven full-stack app generator
+- **Initia** – schema-driven full-stack app generator | [Checkout its roadmap](https://github.com/baseflow-labs/initia-frontend-template/blob/main/Documentation/plan/ROAD_MAP.md)
 - **[More coming soon]**
 
 ## 🌍 Focus
