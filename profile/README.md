@@ -1,2 +1,2 @@
 # .github
-Baseflow Labs Github Profile
+Baseflow Labs GitHub Profile
